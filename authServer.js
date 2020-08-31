@@ -21,10 +21,10 @@ app.post('/token', (req,res)=>{
 })
 
 const posts=[{
-    username: 'Kyle',
+    username: 'kyle',
     title: 'post 1'
 },{
-    username: 'Jim',
+    username: 'jim',
     title:'post 2'
 }
 ]

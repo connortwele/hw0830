@@ -8,10 +8,10 @@ const jwt = require('jsonwebtoken')
 app.use(express.json())
 
 const posts=[{
-    username: 'Kyle',
+    username: 'kyle',
     title: 'post 1'
 },{
-    username: 'Jim',
+    username: 'jim',
     title:'post 2'
 }
 ]
